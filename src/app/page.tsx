@@ -40,7 +40,7 @@ export default function Home() {
           </p>
 
           <Link
-            href="/menu"
+            href="/pages/menu"
             className="bg-red-800 hover:bg-red-400 transition duration-300
                  w-fit text-white px-10 py-2 rounded-xl mx-auto lg:mx-0"
           >
@@ -98,7 +98,7 @@ export default function Home() {
               </p>
               <div className="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
                 <Link
-                  href="#"
+                  href="/pages/contact"
                   className="rounded-md bg-red-400 px-3.5 py-2.5 text-sm font-semibold text-white inset-ring inset-ring-white/5 hover:bg-red-900 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white
                   transition duration-300"
                 >

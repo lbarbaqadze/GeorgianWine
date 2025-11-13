@@ -99,7 +99,7 @@ export default function Section() {
                             </div>
 
                             <Link
-                                href="/about"
+                                href="/pages/about"
                                 className="inline-block rounded-md border border-transparent bg-red-900 px-8 py-3 text-center font-medium text-white hover:bg-red-400
                                 transition duration-300"
                             >
