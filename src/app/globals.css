@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body{
+    background-color: rgb(252, 231, 231);
+}
+
+@layer utilities{
+    .mq1{
+        @media (max-width: 1024px){
+            width: 120px;
+            height: 200px;            
+        }
+    }
+}
