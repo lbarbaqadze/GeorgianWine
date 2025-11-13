@@ -121,13 +121,13 @@ export default function Hero(props: Props) {
                             {props.des}
                         </p>
                         <div className="mt-10 flex items-center justify-center gap-x-6">
-                            <a
+                            <Link
                                 href="/pages/menu"
                                 className="rounded-md bg-red-900 px-3.5 py-2.5 text-sm font-semibold text-white shadow-xs hover:bg-red-400 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-500
                                 transition duration-300"
                             >
                                 {props.button}
-                            </a>
+                            </Link>
                             <a href="#" className="text-sm/6 font-semibold text-white">
                                 გაიგე მეტი <span aria-hidden="true">→</span>
                             </a>
