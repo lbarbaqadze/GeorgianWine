@@ -19,7 +19,7 @@ export default function Home() {
                 des="გაიცანი წითელი, თეთრი და ვარდისფერი ღვინოები, შექმნილი ბუნებრივი ტრადიციებისა და თანამედროვე ხედვის სინთეზით."
                 button="მენიუ"
                 styles={{
-                    backgroundImage: `linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)), url(${path}/menu-images/bg.webp)`,
+                    backgroundImage: `linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)), url(/menu-images/bg.webp)`,
                     backgroundPosition: "center",
                     backgroundRepeat: "no-repeat",
                     backgroundSize: "cover"

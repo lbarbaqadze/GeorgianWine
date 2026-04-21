@@ -8,7 +8,7 @@ const products = [
         name: 'აკაშენი',
         href: '#',
         price: '$48',
-        imageSrc: `${path}/menu-images/akasheni.png`,
+        imageSrc: `/menu-images/akasheni.png`,
         imageAlt: 'Tall slender porcelain bottle with natural clay textured body and cork stopper.',
     },
     {
@@ -16,7 +16,7 @@ const products = [
         name: 'ალაზანი',
         href: '#',
         price: '$54',
-        imageSrc: `${path}/menu-images/alazani.png`,
+        imageSrc: `/menu-images/alazani.png`,
         imageAlt: 'Olive drab green insulated bottle with flared screw lid and flat top.',
     },
     {
@@ -24,7 +24,7 @@ const products = [
         name: 'ხვანჭკარა',
         href: '#',
         price: '$89',
-        imageSrc: `${path}/menu-images/khvanchkara2.png`,
+        imageSrc: `/menu-images/khvanchkara2.png`,
         imageAlt: 'Person using a pen to cross a task off a productivity paper card.',
     },
     {
@@ -32,7 +32,7 @@ const products = [
         name: 'ქინძმარაული',
         href: '#',
         price: '$35',
-        imageSrc: `${path}/menu-images/kindzmarauli.png`,
+        imageSrc: `/menu-images/kindzmarauli.png`,
         imageAlt: 'Hand holding black machined steel mechanical pencil with brass tip and top.',
     },
     {
@@ -40,7 +40,7 @@ const products = [
         name: 'ქისი',
         href: '#',
         price: '$64',
-        imageSrc: `${path}/menu-images/kisi1.png`,
+        imageSrc: `/menu-images/kisi1.png`,
         imageAlt: 'Paper card sitting upright in walnut card holder on desk.',
     },
     {
@@ -48,7 +48,7 @@ const products = [
         name: 'ქვევრის საფერავი',
         href: '#',
         price: '$39',
-        imageSrc: `${path}/menu-images/qvevris.png`,
+        imageSrc: `/menu-images/qvevris.png`,
         imageAlt: 'Stack of 3 small drab green cardboard paper card refill boxes with white text.',
     },
     {
@@ -56,7 +56,7 @@ const products = [
         name: 'მწვანე',
         href: '#',
         price: '$50',
-        imageSrc: `${path}/menu-images/mtsvane.png`,
+        imageSrc: `/menu-images/mtsvane.png`,
         imageAlt: 'Brass scissors with geometric design, black steel finger holes, and included upright brass stand.',
     },
     {
@@ -64,7 +64,7 @@ const products = [
         name: 'ნაპარეული',
         href: '#',
         price: '$23',
-        imageSrc: `${path}/menu-images/napareuli.png`,
+        imageSrc: `/menu-images/napareuli.png`,
         imageAlt: 'Textured gray felt pouch for paper cards with snap button flap and elastic pen holder loop.',
     },
     {
@@ -72,7 +72,7 @@ const products = [
         name: 'რქაწითელი',
         href: '#',
         price: '$39',
-        imageSrc: `${path}/menu-images/rkatsiteli.png`,
+        imageSrc: `/menu-images/rkatsiteli.png`,
         imageAlt: 'Textured gray felt pouch for paper cards with snap button flap and elastic pen holder loop.',
     },
     {
@@ -80,7 +80,7 @@ const products = [
         name: 'საფერავი',
         href: '#',
         price: '$45',
-        imageSrc: `${path}/menu-images/saperavi.png`,
+        imageSrc: `/menu-images/saperavi.png`,
         imageAlt: 'Textured gray felt pouch for paper cards with snap button flap and elastic pen holder loop.',
     },
     {
@@ -88,7 +88,7 @@ const products = [
         name: 'შავკაპიტო',
         href: '#',
         price: '$29',
-        imageSrc: `${path}/menu-images/shavkapito.png`,
+        imageSrc: `/menu-images/shavkapito.png`,
         imageAlt: 'Textured gray felt pouch for paper cards with snap button flap and elastic pen holder loop.',
     },
     {
@@ -96,7 +96,7 @@ const products = [
         name: 'ცოლიკაური',
         href: '#',
         price: '$35',
-        imageSrc: `${path}/menu-images/tsolikauri.png`,
+        imageSrc: `/menu-images/tsolikauri.png`,
         imageAlt: 'Textured gray felt pouch for paper cards with snap button flap and elastic pen holder loop.',
     },
 ]

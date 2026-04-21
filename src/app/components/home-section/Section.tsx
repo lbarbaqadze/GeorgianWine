@@ -43,14 +43,14 @@ export default function Section() {
                                             <div className="h-64 w-44 overflow-hidden rounded-lg sm:opacity-0 lg:opacity-100">
                                                 <img
                                                     alt=""
-                                                    src={`${path}/home-images/alazani.png`}
+                                                    src={`/home-images/alazani.png`}
                                                     className="size-full object-cover"
                                                 />
                                             </div>
                                             <div className="h-68 w-25 overflow-hidden rounded-lg">
                                                 <img
                                                     alt=""
-                                                    src={`${path}/home-images/khvanchkara.png`}
+                                                    src={`/home-images/khvanchkara.png`}
                                                     className="size-full object-cover"
                                                 />
                                             </div>
@@ -59,21 +59,21 @@ export default function Section() {
                                             <div className="h-60 w-44 overflow-hidden rounded-lg">
                                                 <img
                                                     alt=""
-                                                    src={`${path}/home-images/kindzmarauli.png`}
+                                                    src={`/home-images/kindzmarauli.png`}
                                                     className="size-full object-cover"
                                                 />
                                             </div>
                                             <div className="h-60 w-44 overflow-hidden rounded-lg">
                                                 <img
                                                     alt=""
-                                                    src={`${path}/home-images/kisi.png`}
+                                                    src={`/home-images/kisi.png`}
                                                     className="size-full object-cover"
                                                 />
                                             </div>
                                             <div className="h-60 w-44 overflow-hidden rounded-lg">
                                                 <img
                                                     alt=""
-                                                    src={`${path}/home-images/marani.png`}
+                                                    src={`/home-images/marani.png`}
                                                     className="size-full object-cover"
                                                 />
                                             </div>
@@ -82,14 +82,14 @@ export default function Section() {
                                             <div className="h-60 w-44 overflow-hidden rounded-lg">
                                                 <img
                                                     alt=""
-                                                    src={`${path}/home-images/rkatsiteli.png`}
+                                                    src={`/home-images/rkatsiteli.png`}
                                                     className="size-full object-cover"
                                                 />
                                             </div>
                                             <div className="h-60 w-44 overflow-hidden rounded-lg">
                                                 <img
                                                     alt=""
-                                                    src={`${path}/home-images/shavkapito.png`}
+                                                    src={`/home-images/shavkapito.png`}
                                                     className="size-full object-cover"
                                                 />
                                             </div>

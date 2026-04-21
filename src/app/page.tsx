@@ -7,8 +7,6 @@ import Footer from "./components/footer/Footers";
 
 export default function Home() {
 
-  const path = process.env.NODE_ENV === 'production' ? '/GeorgianWine' : ''
-
   return (
     <>
 
@@ -21,7 +19,7 @@ export default function Home() {
       max-md:py-10">
         <div>
           <img
-            src={`${path}/home-images/saperavi.png`}
+            src={`/home-images/saperavi.png`}
             className="w-64 sm:w-80 md:w-[320px] h-auto rotate-5"
           />
         </div>
@@ -49,7 +47,7 @@ export default function Home() {
         </div>
         <div>
           <img
-            src={`${path}/home-images/akasheni.png`}
+            src={`/home-images/akasheni.png`}
             className="w-64 sm:w-80 md:w-[320px] h-auto -rotate-5"
           />
         </div>
@@ -110,7 +108,7 @@ export default function Home() {
             <div className="relative mt-16 h-80 lg:mt-8">
               <img
                 alt="App screenshot"
-                src={`${path}/home-images/images1.jpg`}
+                src={`/home-images/images1.jpg`}
                 width={1824}
                 height={1080}
                 className="absolute top-0 left-0 w-228 max-w-none rounded-md bg-white/5 ring-1 ring-white/10"

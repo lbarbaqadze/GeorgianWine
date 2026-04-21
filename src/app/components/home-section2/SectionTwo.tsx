@@ -32,19 +32,19 @@ export default function SectionTwo() {
         </div>
         <div className="grid grid-cols-2 grid-rows-2 gap-4 sm:gap-6 lg:gap-8">
           <img
-            src={`${path}/home-images/wine.jpg`}
+            src={`/home-images/wine.jpg`}
             className="rounded-lg bg-gray-100"
           />
           <img
-            src={`${path}/home-images/wine4.jpg.webp`}
+            src={`/home-images/wine4.jpg.webp`}
             className="rounded-lg bg-gray-100"
           />
           <img
-            src={`${path}/home-images/wine3.jpg.webp`}
+            src={`/home-images/wine3.jpg.webp`}
             className="rounded-lg bg-gray-100"
           />
           <img
-            src={`${path}/home-images/wine2.jpg`}
+            src={`/home-images/wine2.jpg`}
             className="rounded-lg bg-gray-100"
           />
         </div>

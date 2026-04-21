@@ -34,7 +34,7 @@ export default function Hero(props: Props) {
                             <span className="sr-only">Your Company</span>
                             <img
                                 alt="logo"
-                                src={`${path}/logo1.png`}
+                                src={`/logo1.png`}
                                 className="h-[65px] w-[100px]"
                             />
                         </a>
@@ -66,7 +66,7 @@ export default function Hero(props: Props) {
                                 <span className="sr-only">Your Company</span>
                                 <img
                                     alt=""
-                                    src={`${path}/logo1.png`}
+                                    src={`/logo1.png`}
                                     className="h-[65px] w-[100px]"
                                 />
                             </a>

@@ -9,21 +9,21 @@ export default function Home() {
         {
             name: 'ვაზის ჯიშები',
             description: 'გაიცანი ქართული ვაზის ათასობით სახეობა და მათი უნიკალური თვისებები',
-            imageSrc: `${path}/about-images/vazebi.jpg`,
+            imageSrc: `/about-images/vazebi.jpg`,
             imageAlt: 'ვენახში სხვადასხვა ჯიშის ყურძენი მზის შუქზე',
             href: '#',
         },
         {
             name: 'ქვევრის ხელოვნება',
             description: 'შეიგრძენი საუკუნოვანი ტექნიკა, რომლის მეშვეობითაც ღვინო იცლის სუფთა არომატს',
-            imageSrc: `${path}/about-images/qvevri.jpg`,
+            imageSrc: `/about-images/qvevri.jpg`,
             imageAlt: 'ქვევრში ღვინის დაყენების პროცესი',
             href: '#',
         },
         {
             name: 'გემოებისა და სუნამოების შემოთავაზება',
             description: 'აღმოაჩინე წითელი, თეთრი და ვარდისფერი ღვინოების მდიდარი გემოების პალიტრა',
-            imageSrc: `${path}/about-images/gvino.jpg`,
+            imageSrc: `/about-images/gvino.jpg`,
             imageAlt: 'ღვინის დეგუსტაცია ბოკალებით და ტოსტებით',
             href: '#',
         },
@@ -36,7 +36,7 @@ export default function Home() {
                 des="საუკუნეების ტრადიცია, ბუნებრივი წარმოება და თანამედროვე ხედვა ერთმანეთს ხვდება აღმოაჩინეთ ღვინო, რომელიც ნამდვილად ამბავს ქართულ მიწასა და ადამიანზე."
                 button="მენიუ"
                 styles={{
-                    backgroundImage: `linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)), url(${path}/about-images/image1.webp)`,
+                    backgroundImage: `linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)), url(/about-images/image1.webp)`,
                     backgroundPosition: "center",
                     backgroundRepeat: "no-repeat",
                     backgroundSize: "cover"
@@ -64,7 +64,7 @@ export default function Home() {
                                     <div className="absolute inset-x-10 top-10 bottom-0 overflow-hidden  border-x-[3cqw] border-t-[3cqw] border-red-900 bg-gray-900 outline outline-white/20">
                                         <img
                                             alt="Georgian vineyard"
-                                            src={`${path}/about-images/images2.jpg`}
+                                            src={`/about-images/images2.jpg`}
                                             className="size-full object-cover object-top"
                                         />
                                     </div>
@@ -85,7 +85,7 @@ export default function Home() {
                                 <div className="flex flex-1 items-center justify-center px-8 max-lg:pt-10 max-lg:pb-12 sm:px-10 lg:pb-2">
                                     <img
                                         alt="Red wine glass"
-                                        src={`${path}/about-images/redwine1.jpg`}
+                                        src={`/about-images/redwine1.jpg`}
                                         className="w-full max-lg:max-w-xs rounded-lg"
                                     />
                                 </div>
@@ -105,7 +105,7 @@ export default function Home() {
                                 <div className="flex flex-1 items-center justify-center px-8 max-lg:pt-10 max-lg:pb-12 sm:px-10 lg:pb-2">
                                     <img
                                         alt="Red wine glass"
-                                        src={`${path}/about-images/whitewine.webp`}
+                                        src={`/about-images/whitewine.webp`}
                                         className="w-full max-lg:max-w-xs rounded-lg"
                                     />
                                 </div>
@@ -201,7 +201,7 @@ export default function Home() {
                 <div className="mx-auto max-w-2xl lg:max-w-4xl">
                     <img
                         alt="Georgian Wine Logo"
-                        src={`${path}/logo1.png`}
+                        src={`/logo1.png`}
                         className="mx-auto h-12"
                     />
 

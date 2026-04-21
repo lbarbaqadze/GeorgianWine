@@ -6,32 +6,32 @@ const people = [
     {
         name: 'გიორგი ბერიძე',
         role: 'მთავარი მეღვინე',
-        imageUrl: `${path}/contact-images/img1.png`
+        imageUrl: `/contact-images/img1.png`
     },
     {
         name: 'ნინო ქავთარაძე',
         role: 'სომელიე / დეგუსტაციის ხელმძღვანელი',
-        imageUrl: `${path}/contact-images/img4.png.jpeg`
+        imageUrl: `/contact-images/img4.png.jpeg`
     },
     {
         name: 'დავით ჯაფარიძე',
         role: 'ვენახების მენეჯერი',
-        imageUrl: `${path}/contact-images/img2.png`
+        imageUrl: `/contact-images/img2.png`
     },
     {
         name: 'ეკატერინე აბულაძე',
         role: 'მარკეტინგის დირექტორი',
-        imageUrl: `${path}/contact-images/img5.png.jpeg`
+        imageUrl: `/contact-images/img5.png.jpeg`
     },
     {
         name: 'თამარ მელიქიშვილი',
         role: 'ექსპორტის მენეჯერი',
-        imageUrl: `${path}/contact-images/img6.png.jpeg`
+        imageUrl: `/contact-images/img6.png.jpeg`
     },
     {
         name: 'ლევან ცერცვაძე',
         role: 'ბრენდის ელჩი',
-        imageUrl: `${path}/contact-images/img3.png.webp`,
+        imageUrl: `/contact-images/img3.png.webp`,
     },
 ]
 
